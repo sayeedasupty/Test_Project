@@ -18,4 +18,7 @@ Pull
 what i should change
 File should be added
 
+branch:
+1. create a new branch from main
+
 
