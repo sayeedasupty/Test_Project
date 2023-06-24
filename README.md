@@ -14,4 +14,6 @@ fetch:
 2. open git 
 3. Click into update selected icon from branch
 
+Pull
+
 
