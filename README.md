@@ -11,7 +11,7 @@ Commit and push
 
 fetch:
 1. edit something from github
-2. open git
+2. open git 
 3. Click into update selected icon from branch
 
 
