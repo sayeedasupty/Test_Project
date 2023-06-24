@@ -9,4 +9,9 @@ Commit and push
 1. select file and click commit
 2. push
 
-Merge :
+fetch:
+1. edit something from github
+2. open git
+3. Click into update selected icon from branch
+
+
