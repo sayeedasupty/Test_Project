@@ -20,5 +20,7 @@ File should be added
 
 branch:
 1. create a new branch from main
-2. mathay dhukena
+
+added feature 2 from ide
+
 
