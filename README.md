@@ -8,3 +8,5 @@
 Commit and push
 1. select file and click commit
 2. push
+
+Merge :
