@@ -15,5 +15,6 @@ fetch:
 3. Click into update selected icon from branch
 
 Pull
+File should be added
 
 
